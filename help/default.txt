@@ -1,0 +1,8 @@
+Hi, I'm **@RevoBot**, Revolatic's own Discord chat bot!
+
+To make me do things, you can do one of two things:
+
+1. DM me a command directly and I'll reply right away!
+2. Mention **@RevoBot** and then your command in any channel I'm in!
+
+For a list of commands, try **@RevoBot help commands**.

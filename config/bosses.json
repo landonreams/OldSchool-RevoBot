@@ -1,0 +1,592 @@
+[
+  {
+    "name": "Abyssal Sire",
+    "aliases": [ "sire" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Abyssal_Sire",
+    "drops": [
+      {
+        "item": "Abyssal head",
+        "rate": 0.078125
+      },
+      {
+        "item": "Abyssal orphan",
+        "rate": 0.0390625
+      },
+      {
+        "item": "Abyssal dagger",
+        "rate": 0.203125
+      },
+      {
+        "item": "Abyssal whip",
+        "rate": 0.09375
+      },
+      {
+        "item": "Bludgeon claw",
+        "rate": 0.484375
+      },
+      {
+        "item": "Bludgeon spine",
+        "rate": 0.484375
+      },
+      {
+        "item": "Bludgeon axon",
+        "rate": 0.484375
+      },
+      {
+        "item": "Jar of miasma",
+        "rate": 0.1015625
+      }
+    ]
+  },
+
+  {
+    "name": "Callisto",
+    "aliases": [ "bear" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Callisto",
+    "drops": [
+      {
+        "item": "Dragon pickaxe",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Dragon 2h sword",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Tyrannical ring",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Callisto cub",
+        "rate": 0.0005
+      }
+    ]
+  },
+
+  {
+    "name": "Cerberus",
+    "aliases": [ "cerberus", "cerb" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Cerberus",
+    "drops": [
+      {
+        "item": "Primordial crystal",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Pegasian crystal",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Eternal crystal",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Smouldering stone":,
+        "rate": 0.001953125
+      },
+      {
+        "item": "Hellpuppy",
+        "rate": 0.0003333333
+      },
+      {
+        "item": "Jar of souls",
+        "rate": 0.0005
+      }
+    ]
+  },
+
+  {
+    "name": "Chaos Elemental",
+    "aliases": [ "chaos ele", "ele" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Chaos_Elemental",
+    "drops": [
+      {
+        "item": "Dragon pickaxe",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Dragon 2h sword",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Pet chaos elemental",
+        "rate": 0.00333333
+      }
+    ]
+  },
+
+  {
+    "name": "Chaos Fanatic",
+    "aliases": [ "fanatic" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Chaos_Fanatic",
+    "drops": [
+      {
+        "item": "Odium shard 1",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Malediction shard 1",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Pet chaos elemental",
+        "rate": 0.001
+      }
+    ]
+  },
+
+  {
+    "name": "Commander Zilyana",
+    "aliases": [ "zilyana", "zily", "zil", "sara", "saradomin" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Commander_Zilyana",
+    "drops": [
+      {
+        "item": "Saradomin sword",
+        "rate": 0.00787401
+      },
+      {
+        "item": "Armadyl crossbow",
+        "rate": 0.001968503
+      },
+      {
+        "item": "Saradomin's light",
+        "rate": 0.003937007
+      },
+      {
+        "item": "Saradomin hilt",
+        "rate": 0.001968503
+      },
+      {
+        "item": "Pet zilyana",
+        "rate": 0.0002
+      }
+    ]
+  },
+
+  {
+    "name": "Corporeal Beast",
+    "aliases": [ "corp" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Corporeal_Beast",
+    "drops": [
+      {
+        "item": "Spectral sigil",
+        "rate": 0.000280504908835904
+      },
+      {
+        "item": "Arcane sigil",
+        "rate": 0.000280504908835904
+      },
+      {
+        "item": "Elysian sigil",
+        "rate": 0.000244200244200244200
+      },
+      {
+        "item": "Holy elixir",
+        "rate": 0.00584795321637
+      },
+      {
+        "item": "Pet dark core",
+        "rate": 0.0002
+      }
+    ]
+  },
+
+  {
+    "name": "Crazy Archaeologist",
+    "aliases": [ "archaeologist", "arch" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Crazy_archaeologist",
+    "drops": [
+      {
+        "item": "Odium shard 2",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Malediction shard 2",
+        "rate": 0.00390625
+      }
+    ]
+  },
+
+  {
+    "name": "Dagannoth Supreme",
+    "aliases": [ "supreme" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Dagannoth_Supreme",
+    "drops": [
+      {
+        "item": "Dragon axe",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Seercull",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Archers ring",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Pet dagannoth supreme",
+        "rate": 0.0002
+      }
+    ]
+  },
+
+  {
+    "name": "Dagannoth Rex",
+    "aliases": [ "rex" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Dagannoth_Rex",
+    "drops": [
+      {
+        "item": "Dragon axe",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Berserker ring",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Warrior ring",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Pet dagannoth rex",
+        "rate": 0.0002
+      }
+    ]
+  },
+
+  {
+    "name": "Dagannoth Prime",
+    "aliases": [ "prime" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Dagannoth_Prime",
+    "drops": [
+      {
+        "item": "Dragon axe",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Seers ring",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Pet dagannoth prime",
+        "rate": 0.0002
+      },
+    ]
+  },
+
+  {
+    "name": "General Graardor",
+    "aliases": [ "graardor", "bandos" ],
+    "url": "http://2007.runescape.wikia.com/wiki/General_Graardor",
+    "drops": [
+      {
+        "item": "Bandos chestplate",
+        "rate": 0.00260416666666666
+      },
+      {
+        "item": "Bandos tassets",
+        "rate": 0.00260416666666666
+      },
+      {
+        "item": "Bandos boots",
+        "rate": 0.00260416666666666
+      },
+      {
+        "item": "Bandos hilt",
+        "rate":0.001968503937007874
+      },
+      {
+        "item": "Pet general graardor",
+        "rate" 0.0002
+      }
+    ]
+  },
+
+  {
+    "name": "Giant Mole",
+    "aliases": [ "mole" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Giant_Mole",
+    "drops": [
+      {
+        "item": "Baby mole",
+        "rate": 0.00033333333333
+      }
+    ]
+  },
+
+  {
+    "name": "K'ril Tsutsaroth",
+    "aliases": [ "k'ril", "kril", "zammy", "zamorak" ],
+    "url": "http://2007.runescape.wikia.com/wiki/K%27ril_Tsutsaroth",
+    "drops": [
+      {
+        "item": "Steam battlestaff",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Zamorakian spear",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Staff of the dead",
+        "rate": 0.001968503
+      },
+      {
+        "item": "Zamorak hilt",
+        "rate": 0.001968503
+      },
+      {
+        "item": "Pet k'ril tsutsaroth",
+        "rate": 0.0002
+      }
+    ]
+  },
+
+  {
+    "name": "Kalphite Queen",
+    "aliases": [ "kq" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Kalphite_Queen",
+    "drops": [
+      {
+        "item": "Dragon chainbody",
+        "rate": 0.0078125
+      },
+      {
+        "item": "Dragon 2h sword",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Jar of sand",
+        "rate": 0.0005
+      },
+      {
+        "item": "Kalphite princess",
+        "rate": 0.00033333333333
+      }
+    ]
+  },
+
+  {
+    "name": "King Black Dragon",
+    "aliases": [ "kbd" ],
+    "url": "http://2007.runescape.wikia.com/wiki/",
+    "drops": [
+      {
+        "item": "Dragon pickaxe",
+        "rate": 0.0004
+      },
+      {
+        "item": "Prince black dragon",
+        "rate": 0.000333333333
+      },
+      {
+        "item": "Draconic visage",
+        "rate": 0.0002
+      }
+    ]
+  },
+
+  {
+    "name": "Kraken",
+    "aliases": [ "kraken" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Kraken",
+    "drops": [
+      {
+        "item": "Trident of the seas (full)",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Kraken tentacle",
+        "rate": 0.0025
+      },
+      {
+        "item": "Jar of dirt",
+        "rate": 0.001
+      },
+      {
+        "item": "Pet kraken",
+        "rate": 0.000333333333
+      }
+    ]
+  },
+
+  {
+    "name": "Kree'arra",
+    "aliases": [ "kree", "arma", "armadyl" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Kree%27arra",
+    "drops": [
+      {
+        "item": "Armadyl helmet",
+        "rate": 0.00260416666666666
+      },
+      {
+        "item": "Armadyl chestplate",
+        "rate": 0.00260416666666666
+      },
+      {
+        "item": "Armadyl chainskirt",
+        "rate": 0.00260416666666666
+      },
+      {
+        "item": "Armadyl hilt",
+        "rate": 0.001968503
+      },
+      {
+        "item": "Pet kree'arra",
+        "rate": 0.0002
+      }
+    ]
+  },
+
+  {
+    "name": "Scorpia",
+    "aliases": [ "scorp" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Scorpia",
+    "drops": [
+      {
+        "item": "Odium shard 3",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Malediction shard 3",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Scorpia's offspring",
+        "rate": 0.0005
+      }
+    ]
+  },
+
+  {
+    "name": "Skotizo",
+    "aliases": [ "skotizo" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Skotizo",
+    "drops": [
+      {
+        "item": "Jar of darkness",
+        "rate": 0.0004
+      }
+    ]
+  },
+
+  {
+    "name": "Thermonuclear smoke devil",
+    "aliases": [ "thermy", "smoke devil" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Thermonuclear_smoke_devil",
+    "drops": [
+      {
+        "item": "Smoke battlestaff",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Pet smoke devil",
+        "rate": 0.000333333333333
+      }
+    ]
+  },
+
+  {
+    "name": "TzTok-Jad",
+    "aliases": [ "jad" ],
+    "url": "http://2007.runescape.wikia.com/wiki/TzTok-Jad",
+    "drops": [
+      {
+        "item": "TzRek-Jad",
+        "rate": 0.005
+      }
+    ]
+  },
+
+  {
+    "name": "Venenatis",
+    "aliases": [ "spider", "vene", "ven" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Venenatis",
+    "drops": [
+      {
+        "item": "Dragon pickaxe",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Dragon 2h sword",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Treasonous ring",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Venenatis spiderline",
+        "rate": 0.0005
+      }
+    ]
+  },
+
+  {
+    "name": "Vet'ion",
+    "aliases": [ "vetion", "vet" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Vet%27ion",
+    "drops": [
+      {
+        "item": "Dragon pickaxe",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Dragon 2h sword",
+        "rate": 0.00390625
+      },
+      {
+        "item": "Ring of the gods",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Vet'ion jr.",
+        "rate": 0.0005
+      }
+    ]
+  },
+
+  {
+    "name": "Zulrah",
+    "aliases": [ "zul", "snek" ],
+    "url": "http://2007.runescape.wikia.com/wiki/Zulrah",
+    "drops": [
+      {
+        "item": "Tanzanite fang",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Magic fang",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Serpentine visage",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Uncut onyx",
+        "rate": 0.001953125
+      },
+      {
+        "item": "Pet snakeling",
+        "rate": 0.00025
+      },
+      {
+        "item": "Jar of swamp",
+        "rate": 0.0003333333
+      },
+      {
+        "item": "Tanzanite mutagegn",
+        "rate": 0.000152587890625
+      },
+      {
+        "item": "Magma mutagen",
+        "rate": 0.000152587890625
+      }
+    ]
+  }
+
+
+
+]

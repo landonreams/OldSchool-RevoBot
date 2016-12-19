@@ -1,0 +1,15 @@
+**Hiscores** command help page.
+Usage: **hiscores "<player>"** *[-ironman | -ultimate | -hardcore | -deadman | -seasonal] -full -virtual*
+Aliases: **hiscores**, **hiscore**, **hs**
+
+**"<player>"**
+- The player's name, wrapped in quotation marks.
+
+**[ -ironman | -ultimate | -hardcore | -deadman | -seasonal ]**
+- The desired gamemode. Only select one. You may abbreviate it as well (i.e., -iron, -dmm, -s)
+
+**-full**
+- Displays the full hiscores, with rank, level, and experience for each skill. You can also use -f.
+
+**-virtual**
+- Displays virtual levels instead of actual levels. You can also use -v.
