@@ -1,6 +1,6 @@
 package com.gwynsoft.revobot.data.players;
 
-import com.gwynsoft.revobot.utils.TextReader;
+import com.gwynsoft.revobot.utils.TextUtil;
 import net.dv8tion.jda.core.utils.IOUtil;
 
 import java.io.InputStream;
@@ -117,7 +117,7 @@ public class Player {
 
     private String toDetailedDisplay(boolean bVirtual) {
         try {
-            String fmt = "```" + TextReader.getRawText(DETAILED_FORMAT).replace("\r\n", "%n") + "```";
+            String fmt = "```" + TextUtil.getRawText(DETAILED_FORMAT).replace("\r\n", "%n") + "```";
 
             StringBuilder params = new StringBuilder();
 
@@ -169,7 +169,7 @@ public class Player {
 
     private String toSimpleVirtualDisplay() {
         try {
-            String fmt = "```" + TextReader.getRawText(SIMPLE_VIRTUAL_FORMAT).replace("\r\n", "%n") + "```";
+            String fmt = "```" + TextUtil.getRawText(SIMPLE_VIRTUAL_FORMAT).replace("\r\n", "%n") + "```";
             StringBuilder params = new StringBuilder();
             params.append(StringUtils.center(name, 12)).append("|");
             params.append(StringUtils.center(gameMode.shortName() + " Mode", 14)).append("|");
@@ -188,7 +188,7 @@ public class Player {
 
     private String toSimpleDisplay() {
         try {
-            String fmt = "```" + TextReader.getRawText(SIMPLE_FORMAT).replace("\r\n", "%n") + "```";
+            String fmt = "```" + TextUtil.getRawText(SIMPLE_FORMAT).replace("\r\n", "%n") + "```";
             String[] levels = Arrays.stream(Hiscores.SkillType.valuesByOutputIndex())
                     .map(skill -> Integer.toString(skills.get(skill).getLevel()))
                     .toArray(String[]::new);

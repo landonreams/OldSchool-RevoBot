@@ -1,6 +1,6 @@
 Here's a list of the commands that work. To use them, just say "**@RevoBot**" and the command you want.
 
-If you want to learn more about a command, use "**help** *[command]*".
+If you want to learn more about a command, say "**help** <*[command]*>".
 
 Some tips:
 ~ **<>** = This is mandatory. The command won't work as expected without it!
@@ -10,8 +10,10 @@ Some tips:
 
 - **motd**
 
+- **forums**
+
 - **hiscores "<player>"** *[-ironman | -ultimate | -hardcore | -deadman | -seasonal] -full-detail -virtual*
 
-- **price "<item>"**
+- **price <item>**
 
-- **forums**
+- **boss <boss>**

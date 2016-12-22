@@ -1,5 +1,6 @@
 package com.gwynsoft.revobot;
 
+import com.gwynsoft.revobot.data.items.ItemDatabase;
 import com.gwynsoft.revobot.handlers.CommandHandler;
 import net.dv8tion.jda.core.AccountType;
 import net.dv8tion.jda.core.JDA;

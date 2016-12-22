@@ -5,36 +5,36 @@
     "url": "http://2007.runescape.wikia.com/wiki/Abyssal_Sire",
     "drops": [
       {
-        "item": "Abyssal head",
-        "rate": 0.078125
-      },
-      {
         "item": "Abyssal orphan",
-        "rate": 0.0390625
+        "rate": 0.000390625
       },
       {
         "item": "Abyssal dagger",
-        "rate": 0.203125
+        "rate": 0.00203125
       },
       {
         "item": "Abyssal whip",
-        "rate": 0.09375
+        "rate": 0.0009375
       },
       {
         "item": "Bludgeon claw",
-        "rate": 0.484375
+        "rate": 0.00484375
       },
       {
         "item": "Bludgeon spine",
-        "rate": 0.484375
+        "rate": 0.00484375
       },
       {
         "item": "Bludgeon axon",
-        "rate": 0.484375
+        "rate": 0.00484375
       },
       {
         "item": "Jar of miasma",
-        "rate": 0.1015625
+        "rate": 0.001015625
+      },
+      {
+        "item": "Abyssal bludgeon",
+        "rate": -1
       }
     ]
   },
@@ -81,7 +81,7 @@
         "rate": 0.001953125
       },
       {
-        "item": "Smouldering stone":,
+        "item": "Smouldering stone",
         "rate": 0.001953125
       },
       {
@@ -91,6 +91,18 @@
       {
         "item": "Jar of souls",
         "rate": 0.0005
+      },
+      {
+        "item": "Primordial boots",
+        "rate": -1
+      },
+      {
+        "item": "Pegasian boots",
+        "rate": -1
+      },
+      {
+        "item": "Eternal boots",
+        "rate": -1
       }
     ]
   },
@@ -131,6 +143,14 @@
       {
         "item": "Pet chaos elemental",
         "rate": 0.001
+      },
+      {
+        "item": "Odium ward",
+        "rate": -1
+      },
+      {
+        "item": "Malediction ward",
+        "rate": -1
       }
     ]
   },
@@ -159,6 +179,10 @@
       {
         "item": "Pet zilyana",
         "rate": 0.0002
+      },
+      {
+        "item": "Saradomin godsword",
+        "rate": -1
       }
     ]
   },
@@ -187,6 +211,18 @@
       {
         "item": "Pet dark core",
         "rate": 0.0002
+      },
+      {
+        "item": "Spectral spirit shield",
+        "rate": -1
+      },
+      {
+        "item": "Arcane spirit shield",
+        "rate": -1
+      },
+      {
+        "item": "Elysian spirit shield",
+        "rate": -1
       }
     ]
   },
@@ -203,6 +239,14 @@
       {
         "item": "Malediction shard 2",
         "rate": 0.00390625
+      },
+      {
+        "item": "Odium ward",
+        "rate": -1
+      },
+      {
+        "item": "Malediction ward",
+        "rate": -1
       }
     ]
   },
@@ -271,7 +315,7 @@
       {
         "item": "Pet dagannoth prime",
         "rate": 0.0002
-      },
+      }
     ]
   },
 
@@ -298,7 +342,11 @@
       },
       {
         "item": "Pet general graardor",
-        "rate" 0.0002
+        "rate": 0.0002
+      },
+      {
+        "item": "Bandos godsword",
+        "rate": -1
       }
     ]
   },
@@ -339,6 +387,10 @@
       {
         "item": "Pet k'ril tsutsaroth",
         "rate": 0.0002
+      },
+      {
+        "item": "Zamorak godsword",
+        "rate": -1
       }
     ]
   },
@@ -435,6 +487,10 @@
       {
         "item": "Pet kree'arra",
         "rate": 0.0002
+      },
+      {
+        "item": "Armadyl godsword",
+        "rate": -1
       }
     ]
   },
@@ -455,6 +511,14 @@
       {
         "item": "Scorpia's offspring",
         "rate": 0.0005
+      },
+      {
+        "item": "Odium ward",
+        "rate": -1
+      },
+      {
+        "item": "Malediction ward",
+        "rate": -1
       }
     ]
   },
@@ -577,7 +641,7 @@
         "rate": 0.0003333333
       },
       {
-        "item": "Tanzanite mutagegn",
+        "item": "Tanzanite mutagen",
         "rate": 0.000152587890625
       },
       {

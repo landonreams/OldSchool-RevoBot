@@ -2,6 +2,7 @@ package com.gwynsoft.revobot.handlers;
 
 import com.gwynsoft.revobot.RevoBot;
 import com.gwynsoft.revobot.commands.*;
+import com.gwynsoft.revobot.utils.TextUtil;
 import net.dv8tion.jda.core.entities.ChannelType;
 import net.dv8tion.jda.core.entities.MessageChannel;
 import net.dv8tion.jda.core.events.message.MessageReceivedEvent;
@@ -23,6 +24,7 @@ public class CommandHandler extends ListenerAdapter {
         reg(CommandHelp.INSTANCE);
         reg(CommandHiscore.INSTANCE);
         reg(CommandPrice.INSTANCE);
+        reg(CommandBoss.INSTANCE);
     }
 
     private void reg(ICommand command) {
@@ -67,15 +69,8 @@ public class CommandHandler extends ListenerAdapter {
                 }
             }
             if(isMention && isPrivate) {
-                sendMessage(event, "\n\n*By the way, you don't need to @mention me in a DM! Just say the command.*");
+                TextUtil.sendMessage(event, "\n\n*By the way, you don't need to @mention me in a DM! Just say the command.*");
             }
         }
-    }
-
-    public static void sendMessage(MessageReceivedEvent event, String message) {
-        MessageChannel channel = event.isFromType(ChannelType.PRIVATE) ?
-                event.getPrivateChannel() :
-                event.getChannel();
-        channel.sendMessage(message).queue();
     }
 }

@@ -4,6 +4,7 @@ package com.gwynsoft.revobot.commands;
 import com.gwynsoft.revobot.data.players.GameMode;
 import com.gwynsoft.revobot.data.players.Player;
 import com.gwynsoft.revobot.handlers.CommandHandler;
+import com.gwynsoft.revobot.utils.TextUtil;
 import net.dv8tion.jda.core.events.message.MessageReceivedEvent;
 import org.apache.commons.lang3.StringUtils;
 
@@ -89,6 +90,6 @@ public enum CommandHiscore implements ICommand {
                 }
             }
         }
-        CommandHandler.sendMessage(event, message);
+        TextUtil.sendMessage(event, message);
     }
 }
